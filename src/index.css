@@ -1,0 +1,51 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", sans-serif;
+  background: #f5f1ff;
+  color: #4a4a4a;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html.dark body {
+  background: #0f0b1e;
+  color: #c9b9ff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", "Inter", serif;
+}
+
+.section-card {
+  @apply rounded-3xl border border-soft-border bg-white p-7 shadow-soft backdrop-blur-md transition-all sm:p-10 dark:border-dark-accent/25 dark:bg-dark-card/85;
+}
+
+.input-field {
+  @apply w-full rounded-xl border border-soft-border bg-white px-4 py-3 text-sm text-body outline-none transition duration-200 focus:-translate-y-0.5 focus:border-violet focus:ring-4 focus:ring-violet/20 dark:border-dark-accent/30 dark:bg-dark-card dark:text-dark-lavender;
+}
+
+.gradient-btn {
+  @apply rounded-xl bg-gradient-to-r from-violet to-lilac px-5 py-2.5 text-sm font-semibold text-ink transition duration-300 hover:-translate-y-1 hover:from-lilac hover:to-violet hover:shadow-soft dark:text-white dark:from-dark-accent dark:to-[#a855f7] dark:hover:shadow-glow;
+}
+
+.outline-btn {
+  @apply rounded-xl border border-violet bg-lightPurple px-5 py-2.5 text-sm font-medium text-ink transition duration-300 hover:-translate-y-1 hover:bg-violet/45 dark:border-dark-lavender dark:bg-transparent dark:text-dark-lavender dark:hover:bg-dark-accent dark:hover:text-dark-bg;
+}
+
+.cursor-glow {
+  background: radial-gradient(circle, rgba(205, 180, 219, 0.12) 0%, rgba(205, 180, 219, 0) 60%);
+}

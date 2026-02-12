@@ -1,0 +1,183 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1560 >>
+stream
+BT
+/F1 10 Tf
+12 TL
+45 780 Td
+(Maryam) Tj
+T*
+(MERN Stack Developer) Tj
+T*
+() Tj
+T*
+(PROFILE) Tj
+T*
+(MERN Stack Developer focused on scalable, secure, production-ready web applications.) Tj
+T*
+(Builds clean architecture systems with responsive UI and maintainable backend logic.) Tj
+T*
+() Tj
+T*
+(CONTACT) Tj
+T*
+(Phone: 03057161188) Tj
+T*
+(Email: marium142005@gmail.com) Tj
+T*
+(LinkedIn: linkedin.com/in/marium-javed-316203387) Tj
+T*
+(GitHub: github.com/maryam142-lab) Tj
+T*
+(Availability: Internship / Junior Developer Roles | Remote Opportunities) Tj
+T*
+() Tj
+T*
+(PRIMARY SKILLS) Tj
+T*
+(- React.js: Used in 6+ projects to build responsive component-based UIs) Tj
+T*
+(- Node.js: Built backend services with authentication, CRUD, and validation) Tj
+T*
+(- Express.js: Designed RESTful API routes and middleware architecture) Tj
+T*
+(- MongoDB: Applied data modeling and query design for scalable apps) Tj
+T*
+(- JWT Authentication: Implemented token-based auth flows and protected routes) Tj
+T*
+(- Tailwind CSS: Built consistent UI systems with reusable utility patterns) Tj
+T*
+() Tj
+T*
+(OTHER TOOLS) Tj
+T*
+(JavaScript \\(ES6+\\), HTML5, CSS3, SQLite, bcrypt \\(Password Hashing\\),) Tj
+T*
+(Git & GitHub, Postman, Vite, VS Code, REST API Development) Tj
+T*
+() Tj
+T*
+(HERO VALUE SUMMARY) Tj
+T*
+(- Built 5+ full-stack applications with production-ready patterns) Tj
+T*
+(- Designed REST APIs with secure JWT authentication) Tj
+T*
+(- Focused on scalable architecture and maintainable code quality) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 2191 >>
+stream
+BT
+/F1 10 Tf
+12 TL
+45 780 Td
+(PROJECTS) Tj
+T*
+() Tj
+T*
+(1\\) Full-Stack Blog Platform \\(Featured\\)) Tj
+T*
+(A production-ready blogging platform with secure authentication and dynamic content management.) Tj
+T*
+(Key Features: JWT auth, bcrypt hashing, CRUD posts, comments, likes, REST APIs, SQLite.) Tj
+T*
+(Metrics: 100+ posts handled | Secure token auth flow | Modular API structure) Tj
+T*
+(Architecture: Frontend React+Tailwind | Backend Node+Express | DB SQLite | Auth JWT+bcrypt) Tj
+T*
+(Live: https://blog-phi-wine-41.vercel.app/) Tj
+T*
+(Code: https://github.com/maryam142-lab) Tj
+T*
+() Tj
+T*
+(2\\) Quiz Website \\(Frontend\\)) Tj
+T*
+(Interactive quiz app focused on state management and UI responsiveness.) Tj
+T*
+(Key Features: timer system, score summary, dark/light toggle, dynamic hooks updates.) Tj
+T*
+(Architecture: Frontend React+JavaScript | Backend N/A | DB N/A | Auth N/A) Tj
+T*
+(Live: https://quiz-project-qwvq.vercel.app/) Tj
+T*
+(Code: https://github.com/maryam142-lab) Tj
+T*
+() Tj
+T*
+(3\\) Calculator App \\(Frontend\\)) Tj
+T*
+(Responsive utility app demonstrating component-based architecture and preference handling.) Tj
+T*
+(Key Features: real-time operations, theme persistence \\(localStorage\\), voice input, mobile UI.) Tj
+T*
+(Architecture: Frontend React+JavaScript | Backend N/A | DB localStorage | Auth N/A) Tj
+T*
+(Live: https://calculator-beta-lilac-79.vercel.app/) Tj
+T*
+(Code: https://github.com/maryam142-lab) Tj
+T*
+() Tj
+T*
+(EXPERIENCE TIMELINE) Tj
+T*
+(08/10/2024 - 15/10/2024 | Full-Stack Blog Platform | MERN Stack) Tj
+T*
+(- Architected secure auth and authorization workflow) Tj
+T*
+(- Implemented CRUD, comments, likes, and modular backend structure) Tj
+T*
+(- Designed REST APIs and responsive React+Tailwind UI) Tj
+T*
+() Tj
+T*
+(08/09/2025 - 10/09/2025 | Calculator App | Frontend) Tj
+T*
+(- Designed responsive calculator with theme toggle and voice input) Tj
+T*
+(- Optimized state handling and localStorage preference persistence) Tj
+T*
+() Tj
+T*
+(OTHER CODE PROJECTS) Tj
+T*
+(Freelancing App | Smart Enterprise Management System | Hospital Management System | SyntcxHub) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000010 00000 n 
+0000000059 00000 n 
+0000000122 00000 n 
+0000000248 00000 n 
+0000001860 00000 n 
+0000001986 00000 n 
+0000004229 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4299
+%%EOF
